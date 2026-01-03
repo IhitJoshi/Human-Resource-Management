@@ -1,3 +1,11 @@
+## Credentials
+
+Admin ID - ADMIN001
+Admin Password - namra123
+
+User ID - OIJDODRS2026307
+User Pass - 123456
+
 # Dayflow - Human Resource Management System
 
 A comprehensive HRMS built with the MERN stack (MongoDB, Express, React, Node.js) featuring modern UI/UX design and complete HR management capabilities.
